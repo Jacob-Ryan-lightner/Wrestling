@@ -4,8 +4,10 @@ body {background-color: rgb(182,165,173); font-family: sans-serif; color Red;
 margin: auto;
 display: block;
 }
-      margib: auto;
+      {
+      .picture
+      margin: auto;
       display: block;
       height: 450px;
       width: 650px;
-      
+     }
