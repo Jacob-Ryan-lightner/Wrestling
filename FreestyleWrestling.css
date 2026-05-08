@@ -1,5 +1,11 @@
-h1{text-align: center; font-family:Impact; color: Scarlet;}
-body {background-color: purple); font-family: sans-serif;}
+h1{text-align: center; 
+font-family:Impact; 
+color: Red;
+  }
+body {
+background-color: purple; 
+font-family: sans-serif;
+}
 .picture {
 margin: auto;
 display: block;
